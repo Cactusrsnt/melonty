@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+ol{
+    list-style: armenian;
+    border-top:  5px blue double;
+     border-bottom:  5px blue double;
+}
+footer{
+    background-color: #559898;
+    color: rgb(255, 0, 0);
+    border: 5px dotted rgb(0, 0, 0);
+    border-radius: 15px;
+}
+h1{
+    border-bottom: double black 10px;
+    border-top: double black 10px;
+}
+header{
+    border: 9px inset blueviolet;
+    border-radius: 16px;
+    padding: 10px;
+}
